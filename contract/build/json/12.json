@@ -1,0 +1,20 @@
+{
+  "name": "Hack3Donation #12",
+  "description": "These NFTs are used to pay the homage to those generous donators.",
+  "image": "https://ipfs.io/ipfs/bafybeid7pwvmsbs5ypsz26sszfize7352epemequh4hrpbic4sltzj57dq",
+  "attributes": [
+    {
+      "trait_type": "content",
+      "value": "IMG_2496"
+    },
+    {
+      "trait_type": "frame",
+      "value": "IMG_2497"
+    }
+  ],
+  "dna": "c17a79d27be32467b48dc5a121f7c1db9d560b5a",
+  "edition": 12,
+  "external_url": "https://hackgroup3.io",
+  "date": 1658577334663,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

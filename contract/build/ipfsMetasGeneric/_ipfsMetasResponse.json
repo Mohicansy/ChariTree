@@ -1,0 +1,14 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicy5jon3loaqartywvf627q7nkbsjrg2ttonyskcmo7bzq5gdq2bq",
+  "name": "DonateHackathon",
+  "description": "The NFTs are used to pay homage to the generous donators.",
+  "file_url": "https://ipfs.io/ipfs/QmUf9tDbkqnfHkQaMdFWSGAeXwVXWA61pFED7ypx4hcsfh",
+  "external_url": "https://hackgroup3.io",
+  "animation_url": null,
+  "custom_fields": {
+    "date": 1647039293429,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "attributes": null
+}
